@@ -34,7 +34,7 @@ public class FileAcquisition {
   public static String metaURL = "https://ibdmdb.org/tunnel/cb/document/Public/HMP2/Metadata/hmp2_metadata.csv";
   
   /** Relative path and filename for storage of metadata. */
-  public static String metaFilename = "Metadata/hmp2_metadata.csv";
+  public static String metaFilename = "metadata/hmp2_metadata.csv";
   
   /** 
    * Data type of interest (e.g. metagenomics, metatranscriptomics, 
